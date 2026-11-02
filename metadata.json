@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Crypto Exchange",
+  "description": "Next-generation institutional cryptocurrency exchange for spot and futures trading, asset management, and real-time market data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
